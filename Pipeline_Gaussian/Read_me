@@ -1,2 +1,0 @@
-This folder contains the code for batch reading and vibrational property extraction from Gaussian-16 .log files.
-A Jupyter notebook (.ipynb) file is included as an explanatory tutorial into the script, as well as a normal Python script and test files for use in the notebook.
